@@ -1,0 +1,32 @@
+Arguments: 
+  /home/tripp/.nvm/versions/node/v16.15.1/bin/node /home/tripp/.yarn/bin/yarn.js add --dev hardhat-abi-exporter
+
+PATH: 
+  /home/tripp/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/bin/remote-cli:/home/tripp/.yarn/bin:/home/tripp/.config/yarn/global/node_modules/.bin:/home/tripp/.nvm/versions/node/v16.15.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/nodejs/:/mnt/c/Users/shriy/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/shriy/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/shriy/AppData/Roaming/npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.15.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile '/home/tripp/.cache/yarn/v6/npm-fp-ts-1.19.5-3da865e585dfa1fdfd51785417357ac50afc520a-integrity/node_modules/fp-ts/es6/Alt.d.ts' -> '/mnt/c/Users/shriy/Desktop/Code/oracle/node_modules/io-ts/node_modules/fp-ts/es6/Alt.d.ts'
+
+npm manifest: 
+  {
+    "name": "hardhat-project",
+    "devDependencies": {
+      "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+      "hardhat": "^2.12.2"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
